@@ -1,5 +1,10 @@
-# 💫 About Me:
-I'm Student of Computer Engineering Btech.<br>I'm looking to collaborate to open source projects.<br>I'm currenlty learning Full Stack Development with AI backed funtionality.
+## 💫 About Me:
+
+I'm a Computer Engineering student focused on building real-world software, not just academic projects.
+I’m passionate about full-stack development and integrating AI to create intelligent and practical applications.
+I enjoy experimenting with modern technologies, building projects from scratch, and continuously improving my development skills.
+I’m actively looking to contribute to open-source projects, collaborate with developers, and gain real engineering experience.
+My goal is to grow into a developer who builds impactful, scalable, and meaningful software.<br>
 
 
 ## 🌐 Socials:
